@@ -1,11 +1,9 @@
 """
     Nombre:
-        exportpdf
+        _exportpdf
     
     Descripción:
-        Este modulo permite convertir PDF a imagenes. Devuelve una lista
-        completa con la ubicación de las imagenes, si un archivo PDF tiene
-        más de una pagina este creara varias images en base al número de paginas.
+        Este modulo permite convertir PDF a imagenes. Devuelve una lista completa con la ubicación de las imagenes, si un archivo PDF tiene más de una pagina este creara varias imagenes en base al número de paginas. 
 
     Requerimientos:
         * Tener instalado pdf2image
@@ -17,10 +15,7 @@ import os
 def convert(file, outputDir):
     """ 
         Funcion convert:
-            La funcion convert requiere de dos parametros
-            el archivo en formato pdf y la carpeta donde
-            guardara las images, devuel una tupla de las images
-            exportadas o devuelve False en caso de error
+            La funcion convert requiere de dos parametros el archivo en formato pdf y la carpeta donde guardara las images, devuel una tupla de las images exportadas o devuelve False en caso de error
             
             Ejemplo de uso:
                 convert(pdf, ubicacion_images)

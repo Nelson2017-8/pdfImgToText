@@ -7,6 +7,10 @@ verify_ssl = true
 autopep8 = "*"
 
 [packages]
+pillow = "*"
+pytesseract = "*"
+pdf2image = "*"
+opencv-python = "*"
 flask = "*"
 pylint = "*"
 

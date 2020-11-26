@@ -1,0 +1,14 @@
+{
+    "title": "AgeMeter Test Results",
+    "number": "51",
+    "subtitle": "AGEMETER FUNCTIONAL AGE",
+    "person": {
+        "NAME": "Sergio Alva Velazquez",
+        "AGE": "56",
+        "GENDER": "Male",
+        "TEST DATE": "09/09/20"
+    },
+    "BIOMARKER TEST": "Audio Reaction Time\nAverage of 5 best reaction times\n\nDecision Reaction & Movement Time\nAverage of 5 best reaction times\n\nDecision Reaction & Movement Time\nAverage of 5 best movement times\n\nHighest Audible Pitch\nHighest frequency heard\n\nLung: FEV-1\nBest\n\nLung: FVC\nBest of 3 rounds\n\nMemory\nLength of longest sequence\n\nMovement Speed & Coordination Time\nTime to make 30 round-trips\n\nVisual Reaction & Movement Time\nAverage of 5 best movement times\n\nVisual Reaction & Movement Time\nAverage of 5 best reaction times\n\nOximetry: SPO2 %\nBlood oxygen level\n\nOximetry: Pulse Rate*\nBeats per minute\n\nRelative Fat Mass*\n\nBody Mass Index*",
+    "SCORE": "423 sec\n\n348 sec\n\n.134 sec\n\n15,333 hz\n\n4.710\n\n6.790\n\n21 sec\n\n162 sec\n\n.306 sec\n\n92%\n\n59 bpm\n\n25.7\n\n27.8",
+    "PERCENTILE": "a\n\n\u2014<\n\noS\n60\nN\n\n-\n\n38\n\u00a9\n\nee\nee\n\nSe\n\n \n\n \n\n \n\n \n\n \n\n \n \n \n\n/\n/\n/"
+}
