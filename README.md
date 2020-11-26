@@ -7,12 +7,12 @@ Este programa permite Convertir un PDF a Imagen para luego extraer el texto y se
 ## Requisitos
 Para poder usar este programa adecuadamente debe tener instalador las siguientes librerías y dependecias:
 
-1 Flask
-2 Pillow
-3 Pytesseract 
-4 Tesseract
-5 pdf2image
-6 open-cv (Python)
+	1 Flask
+	2 Pillow
+	3 Pytesseract 
+	4 Tesseract
+	5 pdf2image
+	6 open-cv (Python)
 
 ## Instalando dependecias
 
@@ -63,8 +63,8 @@ Ejemplo de Uso:
 
 Existen 3 tipos de filtros:
 
-1 Filtro 1: Aplicable solo a la estructura del PDF (AgeMeter-PDF document-9956D3F25BA8-1 2.pdf), este recorta el PDF en 10 imagenes donde extrae la información por separada aplicando filtros a blanco y negro
+	* Filtro 1: Aplicable solo a la estructura del PDF (AgeMeter-PDF document-9956D3F25BA8-1 2.pdf), este recorta el PDF en 10 imagenes donde extrae la información por separada aplicando filtros a blanco y negro
 
-2 Filtro 2: Igual que el filtro 1 este tambien recorta el PDF en 10 partes a diferencia que mejora el filtro para tener mejor calidad
+	* Filtro 2: Igual que el filtro 1 este tambien recorta el PDF en 10 partes a diferencia que mejora el filtro para tener mejor calidad
 
-3 Filtro 3: Este filtro es universal, es aplicacble a casi cualquier PDF. A diferencia de los anteriores este no extrae los datos denpendiendo del tamaño y estructura del PDF
+	* Filtro 3: Este filtro es universal, es aplicacble a casi cualquier PDF. A diferencia de los anteriores este no extrae los datos denpendiendo del tamaño y estructura del PDF
