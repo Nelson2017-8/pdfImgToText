@@ -47,7 +47,7 @@ pip install opencv-python
 
 
 ## Uso:
-Para usar el programa debe tener todas las depencias instaladas y configuradas, si es asi nos basta con ir a app.py Corremos el programa y desde el navegador nos vamos a http://dominio.com/NOMBRE_PDF.pdf
+Para usar el programa debe tener todas las depencias instaladas y configuradas, si es asi nos basta con ir a app.py Corremos el programa y desde el navegador nos vamos a http://localhost:4000?file=NOMBRE_PDF.pdf
 
 Ejemplo de Uso:
 * Modo básico: Por defecto el programa usa el tipo de filtro 1 y guarda los datos con el nombre de data.json
